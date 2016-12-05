@@ -7,6 +7,7 @@
     <string name="credit">Credit</string>
     <string name="save">Save</string>
     <string name="insert">Insert</string>
+    <string name="delete">Delete</string>
     <string name="get_course_url">http://bait2073.comli.com/select_course.php</string>
     <string name="insert_course_url">http://bait2073.comli.com/insert_course.php</string>
 </resources>
